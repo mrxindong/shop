@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<siteRoot Id="root" url="" title="管理员控制面板" description="">
+  <siteMapNode url="" title="用户管理" description="">
+    <siteMapNode url="~\Admin\ListAllUsers.aspx" title="管理用户" description="" />
+  </siteMapNode>
+  <siteMapNode url="" title="图书分类管理" description="">
+    <siteMapNode url="~\Admin\AddBooksCatagory.aspx" title="添加图书分类" description="" />
+    <siteMapNode url="~\Admin\ListBooksByCategory.aspx" title="为书籍分类" description="" />
+    <siteMapNode url="~\Admin\ListOfBooks.aspx" title="书籍列表" description="" />
+    <siteMapNode url="~\Admin\AddBook.aspx" title="添加图书" description="" />
+  </siteMapNode>
+  <siteMapNode url="" title="订单管理" description="">
+    <siteMapNode url="~\Admin\CheckOrders.aspx" title="审核订单" description="" />
+  </siteMapNode>
+  <siteMapNode url="javascript:__doPostBack('ctl00$LinkButton1','')" title="退出" description="管理员退出">
+  </siteMapNode>
+</siteRoot>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="default.aspx" title="首页"  description="">
+      <siteMapNode url="booklist.aspx" title="图书列表"  description="" >
+        <siteMapNode url="book.aspx" title="图书详细"  description="" />
+        <siteMapNode url="search.aspx" title="搜索结果"  description="" />
+      </siteMapNode>
+      <siteMapNode url="cart.aspx" title="购物车"  description="" />
+      <siteMapNode url="member/login.aspx" title="登录"  description="" />
+      <siteMapNode url="member/register.aspx" title="注册"  description="" />
+    </siteMapNode>
+</siteMap>

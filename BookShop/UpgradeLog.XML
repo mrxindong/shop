@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BookShop">
+</Property><Property Name="解决方案文件" Value="D:\bk\bookshop\BookShop\BookShop.sln">
+</Property><Property Name="Date" Value="2010年12月26日星期日">
+</Property><Property Name="Time" Value="15:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BookShop.sln" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BookShop.sln">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj.user" Description="项目用户文件成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\BLL.csproj.user">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\AssemblyInfo.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BooksManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\BooksManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\CartManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\CartManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\CategoriesManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\CategoriesManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\OrderBookManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\OrderBookManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\OrdersManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\OrdersManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\PublishersManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\PublishersManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\UserRolesManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\UserRolesManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\UsersManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\UsersManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\UserStatesManager.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\BLL\UserStatesManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj.user" Description="项目用户文件成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Model.csproj.user">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\AssemblyInfo.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Books.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Books.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Cart.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Cart.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Categories.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Categories.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\OrderBook.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\OrderBook.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Orders.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Orders.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Publishers.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Publishers.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\UserRoles.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\UserRoles.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Users.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\Users.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\UserStates.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Model\UserStates.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj.user" Description="项目用户文件成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\DAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\AssemblyInfo.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\BooksServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\BooksServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CartServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\CartServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CategoriesServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\CategoriesServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\OrderBookServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\OrderBookServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\OrdersServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\OrdersServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\PublishersServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\PublishersServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\UserRolesServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\UserRolesServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\UsersServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\UsersServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\UserStatesServices.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DAL\UserStatesServices.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="项目文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Web.csproj">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj.user" Description="项目用户文件成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Web.csproj.user">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CheckRight.ascx.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\CheckRight.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CheckRight.ascx.designer.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\CheckRight.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CopyRight.ascx.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\CopyRight.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CopyRight.ascx.designer.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\CopyRight.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Default.aspx.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Default.aspx.designer.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Global.asax.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Global.asax.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\MasterPage.master.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\MasterPage.master.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\MasterPage.master.designer.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\MasterPage.master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\checkright.ascx" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\checkright.ascx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\copyright.ascx" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\copyright.ascx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Global.asax" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Global.asax">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\top1.gif" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Images\top1.gif">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.config" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Web.config">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Default.aspx" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Default.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Style.css" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Style.css">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\MasterPage.master" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\MasterPage.master">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CheckRight.ascx.resx" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\CheckRight.ascx.resx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CopyRight.ascx.resx" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Controls\CopyRight.ascx.resx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Global.asax.resx" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\Web\Global.asax.resx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Web" Source="Web\Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj.user" Description="项目用户文件成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DBUtility.csproj.user">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\AssemblyInfo.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CommandInfo.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\CommandInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperMySQL.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DbHelperMySQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperOleDb.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DbHelperOleDb.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperOra.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DbHelperOra.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQL.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DESEncrypt.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DESEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\OracleHelper.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\OracleHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\PubConstant.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\PubConstant.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\SQLHelper.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\SQLHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQLP.cs" Description="文件已成功备份为 D:\bk\bookshop\BookShop\Backup\DBUtility\DbHelperSQLP.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BookShop.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="BookShop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

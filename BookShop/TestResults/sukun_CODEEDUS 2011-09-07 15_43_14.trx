@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bf26b818-ae79-4e0a-98f5-356a567103a0" name="sukun@CODEEDUS 2011-09-07 15:43:14" runUser="CODEEDUS\sukun" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="本地测试运行" id="c69ccbaa-6f14-47a1-a2be-5ef999294446">
+    <Description>这是本地测试运行的默认测试运行配置。</Description>
+    <Deployment runDeploymentRoot="C:\BookShop三层建好的项目[原始]\BookShop\TestResults\sukun_CODEEDUS 2011-09-07 15_43_14">
+      <DeploymentItem filename="C:\BookShop三层建好的项目[原始]\BookShop\Lib\LtpPageControl.dll" />
+      <DeploymentItem filename="C:\BookShop三层建好的项目[原始]\BookShop\Lib\LTP.Accounts.dll" />
+      <DeploymentItem filename="C:\BookShop三层建好的项目[原始]\BookShop\Model\bin\Debug\BookShop.Model.dll" />
+      <DeploymentItem filename="C:\BookShop三层建好的项目[原始]\BookShop\BLL\bin\Debug\BookShop.BLL.dll" />
+      <DeploymentItem filename="C:\BookShop三层建好的项目[原始]\BookShop\Lib\LTP.Common.dll" />
+      <DeploymentItem filename="C:\BookShop三层建好的项目[原始]\BookShop\Web\bin\BookShop.Web.dll" />
+    </Deployment>
+    <Plugins>
+      <Plugin>Microsoft.VisualStudio.TestTools.HostAdapters.AspNetPlugin, Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAgent</Plugin>
+    </Plugins>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="CODEEDUS" outcome="Warning" timestamp="2011-09-07T15:43:15.2968750+08:00">
+        <Text>警告: 测试运行部署问题: 找不到程序集或模块“Excel”由 测试容器“c:\bookshop三层建好的项目[原始]\bookshop\testproject1\bin\debug\testproject1.dll” 直接或间接引用。</Text>
+      </RunInfo>
+      <RunInfo computerName="CODEEDUS" outcome="Warning" timestamp="2011-09-07T15:43:15.2968750+08:00">
+        <Text>警告: 测试运行部署问题: 找不到程序集或模块“COM.Excel”由 测试容器“c:\bookshop三层建好的项目[原始]\bookshop\testproject1\bin\debug\testproject1.dll” 直接或间接引用。</Text>
+      </RunInfo>
+      <RunInfo computerName="CODEEDUS" outcome="Warning" timestamp="2011-09-07T15:43:15.2968750+08:00">
+        <Text>警告: 测试运行部署问题: 找不到程序集或模块“dotnetCHARTING”由 测试容器“c:\bookshop三层建好的项目[原始]\bookshop\testproject1\bin\debug\testproject1.dll” 直接或间接引用。</Text>
+      </RunInfo>
+      <RunInfo computerName="CODEEDUS" outcome="Warning" timestamp="2011-09-07T15:43:15.2968750+08:00">
+        <Text>警告: 测试运行部署问题: 找不到程序集或模块“Maticsoft.DBUtility”由 测试容器“c:\bookshop三层建好的项目[原始]\bookshop\testproject1\bin\debug\testproject1.dll” 直接或间接引用。</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2011-09-07T15:43:14.0625000+08:00" queuing="2011-09-07T15:43:16.6562500+08:00" start="2011-09-07T15:43:17.0468750+08:00" finish="2011-09-07T15:43:20.0312500+08:00" />
+  <TestDefinitions>
+    <UnitTest name="Md5CompteTest" storage="c:\bookshop三层建好的项目[原始]\bookshop\testproject1\bin\debug\testproject1.dll" id="535e03b3-d8a2-c69b-8e88-10d9cb1da2ec">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="555388f9-69c5-404c-bbc4-2fd2a3e0195c" />
+      <TestMethod codeBase="C:\BookShop三层建好的项目[原始]\BookShop\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CommonCodeTest, TestProject1" name="Md5CompteTest" />
+      <AspNet webSiteUrl="http://localhost:3448/">
+        <Host pathToWebApp="C:\BookShop三层建好的项目[原始]\BookShop\Web" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="535e03b3-d8a2-c69b-8e88-10d9cb1da2ec" executionId="555388f9-69c5-404c-bbc4-2fd2a3e0195c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="555388f9-69c5-404c-bbc4-2fd2a3e0195c" testId="535e03b3-d8a2-c69b-8e88-10d9cb1da2ec" testName="Md5CompteTest" computerName="CODEEDUS" duration="00:00:00.1930119" startTime="2011-09-07T15:43:18.3125000+08:00" endTime="2011-09-07T15:43:19.9687500+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;E10ADC3949BA59ABBE56E057F20F883E&gt;，实际为: &lt;FCEA920F7412B5DA7BE0CF42B8C93759&gt;。</Message>
+          <StackTrace>   在 TestProject1.CommonCodeTest.Md5CompteTest() 位置 C:\BookShop三层建好的项目[原始]\BookShop\TestProject1\CommonCodeTest.cs:行号 84
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

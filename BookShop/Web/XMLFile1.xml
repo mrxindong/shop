@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <node name=" C#" url="/booklist.aspx?categoryid=1" />
+  <node name=".NET" url="/booklist.aspx?categoryid=25" />
+  <node name="1111" url="/booklist.aspx?categoryid=68" />
+  <node name="ASP.NET" url="/booklist.aspx?categoryid=29" />
+  <node name="Basic VB VB Script" url="/booklist.aspx?categoryid=16" />
+  <node name="C C++ VC VC++" url="/booklist.aspx?categoryid=15" />
+  <node name="CSS Div" url="/booklist.aspx?categoryid=4" />
+  <node name="HTML XML" url="/booklist.aspx?categoryid=22" />
+  <node name="J2EE" url="/booklist.aspx?categoryid=2" />
+  <node name="Java Script Java" url="/booklist.aspx?categoryid=21" />
+  <node name="JSP" url="/booklist.aspx?categoryid=31" />
+  <node name="Perl" url="/booklist.aspx?categoryid=26" />
+  <node name="test" url="/booklist.aspx?categoryid=44" />
+  <node name="WINDOWS" url="/booklist.aspx?categoryid=35" />
+  <node name="电子商务" url="/booklist.aspx?categoryid=38" />
+  <node name="计算机等级考试" url="/booklist.aspx?categoryid=17" />
+  <node name="计算机理论" url="/booklist.aspx?categoryid=20" />
+  <node name="其他" url="/booklist.aspx?categoryid=28" />
+  <node name="网站开发" url="/booklist.aspx?categoryid=27" />
+</root>
